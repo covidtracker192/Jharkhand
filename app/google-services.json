@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "897820431802-qv27023v9dnik1ruibchl40vgaq3vaej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.jharkhand",
+            "certificate_hash": "9776e847327eab8a26bf0c94f0dc7c095328be0e"
+          }
+        },
+        {
           "client_id": "897820431802-a6803js759h7kb4n3ut4nejoqgmf5v1d.apps.googleusercontent.com",
           "client_type": 3
         }

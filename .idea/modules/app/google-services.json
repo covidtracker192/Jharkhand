@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "897820431802",
+    "firebase_url": "https://jharkhand-ad533.firebaseio.com",
+    "project_id": "jharkhand-ad533",
+    "storage_bucket": "jharkhand-ad533.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897820431802:android:d952ca4125665c3a637983",
+        "android_client_info": {
+          "package_name": "com.covid19.jharkhand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897820431802-n9fav0gvl8rf0kr286ftoi8k6vki6tk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.jharkhand",
+            "certificate_hash": "423cc1b7b474d761f16f68a8e3345bda1027bd42"
+          }
+        },
+        {
+          "client_id": "897820431802-qv27023v9dnik1ruibchl40vgaq3vaej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.jharkhand",
+            "certificate_hash": "9776e847327eab8a26bf0c94f0dc7c095328be0e"
+          }
+        },
+        {
+          "client_id": "897820431802-a6803js759h7kb4n3ut4nejoqgmf5v1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6cWFG15cbTUR0ENeKM4m4GxXW0QWTuWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897820431802-a6803js759h7kb4n3ut4nejoqgmf5v1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
